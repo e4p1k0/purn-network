@@ -1,4 +1,4 @@
-module github.com/Pyrinpyi/pyipad
+module github.com/e4p1k0/purn-network
 
 go 1.18
 
